@@ -1,1 +1,1 @@
-# Explorer-Trail-2020
+# Explorer Trial App
